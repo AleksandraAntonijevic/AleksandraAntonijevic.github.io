@@ -1,0 +1,29 @@
+
+.tekst p a{
+    text-decoration: none;
+    color:rgb(212, 3, 191);
+} 
+
+
+img{
+    float: left;
+    margin-right: 10px;
+    margin-left: 130px;
+    height: 500px;
+    height: 500px;
+    box-shadow: 
+        0 0 0 4px  rgb(212, 3, 191), /* Outer border */
+        0 0 0 8px  rgb(42, 61, 205), /* Middle border */
+        0 0 0 12px rgb(3, 212, 212); /* Inner border */
+    border-radius: 10px;
+}
+    
+
+
+.tekst p, .introduction img{
+    margin-top: 40px;
+    align-items: center;
+    
+}
+
+
