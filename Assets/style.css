@@ -1,23 +1,15 @@
-h1{
-    text-align: center;
-    background-color: #FFB7D5;
-    margin-top: 30px;
+*{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+}
+
+.banner{
+    width: 10%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7),url(Images/wallaper5.jpg));
+    background-size: cover;
+    background-position: center;
 
 }
 
-
-body{
-    color: #B06380;
-    background-image: url(Images/wallpaper.jpg);
-    font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 50pxx;
-    
-}
-
-
-.letter{
-    color: rgb(185, 15, 168);
-}
